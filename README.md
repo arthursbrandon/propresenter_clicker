@@ -9,7 +9,7 @@ Usage
 3. Use your clicker to move forward and backward through slides
 
 Installation
-1. Download the latest executable
+1. Download the latest propresenter_clicker.exe
 2. Run the executable
 
 Platform Support
