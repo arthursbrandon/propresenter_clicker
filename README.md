@@ -1,7 +1,7 @@
 # propresenter_clicker
 
 This program allows a wireless slide clicker to control ProPresenter by sending API requests
-to a running ProPresenter Network Interface. It enables slide transitions without requiring the ProPresenter window tp be in focus on the host PC.
+to a running ProPresenter Network Interface. It enables slide transitions without requiring the ProPresenter window to be in focus on the host PC.
 
 Usage
 1. Ensure ProPresenter is running with its API enabled.
